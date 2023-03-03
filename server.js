@@ -17,7 +17,7 @@ app.get('/api/v1/data', (request, response) => {
     return response.status(404);
   }
 
-  response.status(200).json(data);
+  return response.status(200).json(data);
 });
 
 app.listen(app.get('port'), () => {

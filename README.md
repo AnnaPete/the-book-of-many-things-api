@@ -17,4 +17,4 @@ There is only one endpoint for this API:
 
 | Description | URL | Method | Required Properties for Request | Sample Successful Response |
 | --- | --- | --- | --- | --- |
-| Get all data | http://localhost:3000/api/v1/data | GET | none | An array containing all data |
+| Get all data | https://thebookofmanythings.herokuapp.com/api/v1/data | GET | none | An array containing all data |

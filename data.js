@@ -80,31 +80,7 @@ const data = {
       "Lawful characters value order and structure, while Chaotic characters prioritize individual freedom and spontaneity. Neutral characters again fall somewhere in between.",
 
       "A character's alignment can influence their actions and interactions with others, as well as how the game's NPCs perceive and react to them. However, it's important to note that alignment is not meant to be a strict set of rules that govern a character's behavior, and players should feel free to interpret and play their characters in a way that feels authentic and fun to them."
-    ],
-
-  dice: 
-    {
-      general: 
-        [
-          "The number above refers to the number of sides on each die, preceded by a 'd'. So when the game master asks you to roll a 'd6', you'll be using the six-sided die. The die you'll roll the most in D&D is the 20-sided die or d20. Whenever you attempt an action, you'll use the d20, plus your character's skills, to do so.",
-
-          "The other dice in the set will determine different aspects of D&D, such as how much damage your sword deals to an enemy. During the game, you may be asked to roll multiple dice of the same type. The common phrasing will be for the amount of dice at the beginning, followed by the type of dice. For example, when asked to roll 6 of your eight-sided dice, you will see this written as 8d6.",
-
-          "Some might ask, 'how many dice do you need to play D&D?' The answer is simple: there is no limit. Play with one 7-dice D&D set, or embrace your inner dice goblin and have a gigantic bag of assorted dice to choose from! No shame."
-        ],
-
-      d20: "The D20 is used any time you want to know if an attempt is successful: attacks, saving throws, skill checks, and ability checks.",
-
-      d12: "The twelve sided die is often used for damage for large weapons carried by a raging barbarian. Each face is shaped like a pentagon. These dice also stack very well for those long dice-stacking intervals between combat turns.",
-
-      d10: "The ten sided die is used often while playing D&D. There are actually two ten sided dice in a standard 7-dice D&D set. The faces of one are numbered 0 to 9, and the faces of the other go from 00 to 90 by tens. To make a 'percentile' roll, you roll both die and add them together, with one exception: a double zero roll is 100.",
-
-      d8: "The eight sided die, each face is triangular and it resembles two pyramids attached base-to-base. Often used for damage done by larger weapons." ,
-
-      d6: "The standard cube shape die found in most boardgames is also used in D&D. Many gamers gather a set of D6 for quickly rolling multiples, like the original 3D6 rolls for attributes during character creation. This practice later turned into rolling 4D6, discounting the lowest roll, and assigning each number where the player wants.", 
-
-      d4: "The unloved D4, also known as the caltrop. If you have stepped on a D4 with bare feet, you will never forget it. Because of its large flat sides it does not roll as well as the other shapes. In Dungeons & Dragons, the D4 is used where you want low variation, and an average roll of 2.5. Damage rolls for small weapons is a common use, as well as use for healing spells."
-    }
+    ]
   };
 
 module.exports = data
